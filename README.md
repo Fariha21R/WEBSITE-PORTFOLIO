@@ -1,0 +1,1 @@
+This is a responsive personal portfolio website built using HTML and CSS. It showcases my profile, skills, projects, and contact information in a clean and modern layout. The website is designed to be simple, user-friendly, and fully responsive across different devices.
